@@ -21,7 +21,7 @@ We need to stop accept this kind of situation.
 
 #### Dependencies:
 
-1. cdb by CJB
+1. cdb by DJB https://cr.yp.to/cdb.html
 
 #### How to use 
 
