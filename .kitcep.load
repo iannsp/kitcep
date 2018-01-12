@@ -1,0 +1,4 @@
+source plugin/txt.sh
+source plugin/json.sh
+source plugin/desktop_notify.sh
+
