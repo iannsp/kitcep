@@ -36,6 +36,7 @@ We need to stop accept this kind of situation.
  1. TEXT
 
  2. JSON 
+ 2. Desktop Notification [http://developer.linuxmint.com/projects.html](Cinnamon Mint Desktop) 
 
 ## Interfaces ##
 
